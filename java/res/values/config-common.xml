@@ -19,7 +19,7 @@
 -->
 
 <resources>
-    <bool name="config_block_potentially_offensive">true</bool>
+    <bool name="config_block_potentially_offensive">false</bool>
     <!-- Default value for next word prediction: after entering a word and a space only, should we
          look at input history to suggest a hopefully helpful suggestions for the next word? -->
     <bool name="config_default_next_word_prediction">true</bool>
